@@ -1,0 +1,19 @@
+{
+  "id": "967",
+  "title": "Titanic",
+  "release": 1997,
+  "actors": [
+    {
+      "id": "274",
+      "name": "Leonardo DiCaprio"
+    },
+    {
+      "id": "234",
+      "name": "Kate Winslet"
+    }
+  ],
+  "director": {
+    "id": "645",
+    "name": "James Cameron"
+  }
+}
