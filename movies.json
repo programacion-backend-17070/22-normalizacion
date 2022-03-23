@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "movies": [
+  "mensajes": [
     {
       "id": "967",
       "title": "Titanic",
@@ -31,7 +31,7 @@
         },
         {
           "id": "888",
-          "name": "Margot Robbit"
+          "name": "Margot Robbie"
         }
       ],
       "director": {
