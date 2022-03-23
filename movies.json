@@ -1,0 +1,62 @@
+{
+  "id": 1,
+  "movies": [
+    {
+      "id": "967",
+      "title": "Titanic",
+      "release": 1997,
+      "actors": [
+        {
+          "id": "274",
+          "name": "Leonardo DiCaprio"
+        },
+        {
+          "id": "234",
+          "name": "Kate Winslet"
+        }
+      ],
+      "director": {
+        "id": "645",
+        "name": "James Cameron"
+      }
+    },
+    {
+      "id": "570",
+      "title": "Wolf of Wall Street",
+      "release": 2013,
+      "actors": [
+        {
+          "id": "274",
+          "name": "Leonardo DiCaprio"
+        },
+        {
+          "id": "888",
+          "name": "Margot Robbit"
+        }
+      ],
+      "director": {
+        "id": "076",
+        "name": "Martin Scorsese"
+      }
+    },
+    {
+      "id": "324",
+      "title": "The departed",
+      "release": 2006,
+      "actors": [
+        {
+          "id": "274",
+          "name": "Leonardo DiCaprio"
+        },
+        {
+          "id": "767",
+          "name": "Mark Wahlberg"
+        }
+      ],
+      "director": {
+        "id": "076",
+        "name": "Martin Scorsese"
+      }
+    }
+  ]
+}
